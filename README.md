@@ -2,7 +2,7 @@ pi2bread
 
 
 
-## LICENCE
+## Licence
 
     Copyright Fabian Schöttler 2021.
 
