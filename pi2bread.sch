@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "pi2bread"
+Date "2021-04-21"
+Rev "1.0"
 Comp ""
-Comment1 ""
-Comment2 ""
+Comment1 "This source describes Open Hardware and is licensed under the CERN-OHL-S v2."
+Comment2 "Copyright Fabian Schöttler 2021"
 Comment3 ""
 Comment4 ""
 $EndDescr
